@@ -1,0 +1,121 @@
+@charset "utf-8";
+/* CSS Document */
+body{padding:0 ;
+     margin:0 ;}
+/*top begin*/
+   .top{font-size:50px;
+   font-family:Verdana, Geneva, sans-serif;
+   background:#00F ;
+   text-align:center;
+   margin:10px auto 0 auto;
+   padding:0; 
+   border:#0FF solid 2px;
+   width:100%; 
+   height:80px;
+   color:#F63;}
+/*top end*/ 
+
+   
+
+/*nav begin*/
+   ul{list-style:none;}
+
+   .one{width:25px;
+        background:url(../images/left.jpg);}
+	 
+   .two{width:25px;
+       background:url(../images/right.jpg);
+	   margin-right:20px;}
+	 
+   .nav a:link,.nav a:visited{
+     font-size:23px;
+     color:#0F0;
+     text-decoration:none;
+     background:url(../images/middle.jpg) repeat-x;
+     padding:0 5px;
+  }
+  
+   .nav{width:1000px;
+      margin:0px  auto ;
+	  padding:1px;
+	  height:60px;
+	  line-height:50px;
+	  border:#CCC solid 1px;
+	 }
+	 
+   .nav li{float:left;}
+
+   .nav a,.nav span{
+	  display:inline-block;
+	  height:35px;
+	  float:left;}
+/*nav end*/
+
+/*banner begin*/
+   .banner{background:url(../images/1.gif) repeat;
+         border-top:solid;
+         margin:1px auto;
+		 windth:1000px;
+		 height:350px;
+         color:#00F;
+		 padding:0px; 
+		 text-align:left; 
+}
+/*banner end*/
+
+/*content begin*/
+   .content{windth:1000px;
+            height:400px;
+		    margin:10px auto;
+		    overflow:hidden;
+		    border:#F33 double 2px;
+			clear:left;
+			background:#FCF;
+}
+   .acc{text-indent:2em;}
+   .bcd{text-align:center;
+        font-size:24px;
+	    color:#F33;
+}
+   .swc{background:#FCF;
+        width:400px;
+		border:#C33 dashed 2px;
+		float:left;
+		height:1280px;
+   }
+   .sde{list-style:none;}
+   .qrt{font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+        color:#3C0;}
+   
+   .azz{font-size:12px;}
+   .bcc{text-align:right;}
+
+   .chh{width:264px;
+       color:#F00;}
+   .dmm{width:500px;
+        padding:3px;}
+   .sww{background:#FCF;
+        width:450px;
+		border:#C33 dashed 2px;
+		float:left;
+		height:1280px;
+   }
+
+/*content end*/
+
+/*footer begin*/
+  .footer{ width:100%;
+           margin:5px auto;
+           background:#999;
+		   border: double solid 1px;
+		   text-align:center;
+		   font-size:16px;
+  }
+ /*footer end*/
+
+
+
+			   
+			   
+
+	

@@ -1,0 +1,29 @@
+@charset "utf-8";
+/* CSS Document */
+
+/*top begin*/
+   .top{font-size:50px;
+   font-family:Verdana, Geneva, sans-serif;
+   background:#00F ;
+   text-align:center;
+   margin:10px auto 0 auto;
+   padding:0; 
+   border:#0FF solid 2px;
+   width:100%; 
+   height:80px;
+   color:#F63;}
+/*top end*/ 
+
+
+/*content begin*/
+ .content{width:1000px;
+	         margin:10px auto;
+	         background:#CFC;
+			 border:#00F double 1px;
+			 height:1000px;
+	}
+	.cll{text-indent:2em;
+	     font-size:16px;}
+	.aer{text-align:center;
+	     color:#F63;}
+/*content end*/
